@@ -1,0 +1,84 @@
+.bg{
+    font-weight: bolder;
+
+}
+.bor{
+    border-bottom: 1px solid black;
+}
+.sh{
+    /* border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px */
+    
+    
+}
+.navh:hover{
+    border-bottom: 1px solid black;
+}
+@media only screen and (min-width: 1250px) {
+    .head{
+      font-size: 100px;
+    }
+    .mtop{
+        margin-top: 10px;
+    }
+    .ttop{
+        margin-top: 10px;
+    }
+}
+@media only screen and (min-width:550px){
+    .mtop{
+        margin-top: 10px;
+    }
+    .stop{
+        margin-top: 10px;
+    }
+}
+@media only screen and (max-width: 390px) {
+    .mtop{
+        margin-top: 10px;
+    }
+    .stop{
+        margin-top: 10px;
+    }
+}
+@media only screen and (min-width:1450px){
+    .ttop{
+        margin-top: 10px;
+    }
+
+}
+.butop{
+    margin-top: -50px;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+/* .itop{
+    margin-top: 20px;
+} */
+.f{
+  font-family: "Sirin Stencil", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.ytop{
+    margin-top: -5px;
+}
+
+/* .gif{
+    background-image: url(./snow-9513.gif);
+    height: 200px;
+    width: 200px;
+} */
+
+
+
+
+
